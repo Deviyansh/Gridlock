@@ -9,7 +9,7 @@ The application is demonstrated using anonymized Bengaluru traffic-event data.
 
 ## Live Application
 
-Add the public Render URL here after deployment.
+**Live Deployment**- https://gridlock-traffic-intelligence.onrender.com/
 
 ## Features
 
@@ -135,7 +135,3 @@ Add the actual public URL to the **Live Application** section after deployment.
 - The incident model is a decision-support prototype and should not autonomously control traffic infrastructure.
 - The demand-model training data and serialized model were not present in the original repository, so that module cannot honestly be presented as a retrainable live predictor without those assets.
 - Historical dashboards and recommendations should be interpreted in the context of the supplied anonymized data.
-
-## Author
-
-**Deviyansh Rajpurohit**
